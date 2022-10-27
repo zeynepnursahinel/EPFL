@@ -1,2 +1,2 @@
-# EPFL
-Quantum Science and Engineering
+# Quantum Information Processing
+ 
