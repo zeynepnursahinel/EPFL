@@ -2,6 +2,7 @@
  
 [Week 1:](https://github.com/zeynepnursahinel/EPFL/tree/main/MA1/2-com-309%20quantum%20information%20processing/week1)
   -Double Slit Experiment
+  
   -March Zender Interferometer (beam splitters, mirrors, destructive and constructive interferences) 
 
 [Week 2:](https://github.com/zeynepnursahinel/EPFL/tree/main/MA1/2-com-309%20quantum%20information%20processing/week2)
