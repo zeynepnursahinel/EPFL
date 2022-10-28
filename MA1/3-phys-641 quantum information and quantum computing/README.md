@@ -1,9 +1,5 @@
 # Quantum Information and Quantum Computing
 
-Week 2
-
-Week 3
-
 Week 4
 
   - The paradigm of digital quantum circuits
