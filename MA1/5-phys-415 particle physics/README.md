@@ -32,4 +32,5 @@ Week 6:
 Week 7:
 
   - The Dirac Equation
+  - [Dirac Matrices and Clifford Algebra](https://www.youtube.com/watch?v=QbYao72-V6U&t=29s&ab_channel=PrettyMuchPhysics)
 
