@@ -8,6 +8,7 @@ Week 1:
     - [Virtual Paritcles]()
   - Mandelstam Variables
   - [Lorentz Transformation](https://www.youtube.com/watch?v=6pj1f8x3APg&ab_channel=FortheLoveofPhysics)
+  - [Rutherford Scattering]()
 
 Week 2:
 
