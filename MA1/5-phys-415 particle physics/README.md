@@ -10,11 +10,7 @@ Week 1:
   - [Lorentz Transformation](https://www.youtube.com/watch?v=6pj1f8x3APg&ab_channel=FortheLoveofPhysics)
   - [Rutherford Scattering](https://www.youtube.com/watch?v=XBqHkraf8iE&ab_channel=BackstageScience)
 
-Week 2:
-
-  - Rutherford Scattering
-
-Week 3:
+Week 2-3:
 
   - Particle Decays and Particle Detection
   
@@ -34,4 +30,9 @@ Week 7:
 
   - The Dirac Equation
   - [Dirac Matrices and Clifford Algebra](https://www.youtube.com/watch?v=QbYao72-V6U&t=29s&ab_channel=PrettyMuchPhysics)
+  
+Week 8: 
+
+  - 
+  - 
 
